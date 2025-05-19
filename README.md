@@ -51,5 +51,5 @@ This project replicates the core functionality of Reddit, focusing on community-
 - **File Uploads (Optional)**: [UploadThing](https://uploadthing.com/) or [Cloudinary](https://cloudinary.com/)
 - **Hosting**: 
   - Frontend & Backend: [Vercel](https://reddit-clone-pi-blush.vercel.app/)
-  - Database: [Railway]([https://railway.app/](https://reddit-clone-production-1aad.up.railway.app/)
+  - Database: [Railway](https://reddit-clone-production-1aad.up.railway.app/)
 
