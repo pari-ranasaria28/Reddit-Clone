@@ -40,15 +40,14 @@ This project replicates the core functionality of Reddit, focusing on community-
 🧰 Tech Stack
 
  Frontend
-- **Framework**: [Next.js](https://nextjs.org/) (SSR + CSR)
+- **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **State Management**: [React Context API](https://reactjs.org/docs/context.html) or [Zustand](https://github.com/pmndrs/zustand)
+- **State Management**: [React Context API](https://reactjs.org/docs/context.html)
 
  Backend
-- **API**: Next.js API Routes or Node.js + Express
+- **API**: Next.js API Routes
 - **Database**: [PostgreSQL](https://www.postgresql.org/) with [Prisma ORM](https://www.prisma.io/)
-- **Authentication**: [NextAuth.js](https://next-auth.js.org/) or [Clerk](https://clerk.dev/)
-- **File Uploads (Optional)**: [UploadThing](https://uploadthing.com/) or [Cloudinary](https://cloudinary.com/)
+- **Authentication**: [Clerk](https://clerk.dev/)
 - **Hosting**: 
   - Frontend & Backend: [Vercel](https://reddit-clone-pi-blush.vercel.app/)
   - Database: [Railway](https://reddit-clone-production-1aad.up.railway.app/)
